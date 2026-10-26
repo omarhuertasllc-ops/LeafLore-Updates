@@ -36,5 +36,5 @@
     "Dedicated LeafLore-Updates feed repo",
     "Fix release.sh PATH so gh is found during publish"
   ],
-  "downloadURL": "https://github.com/kaoshotbeatz-ops/LeafLore-Updates/releases"
+  "downloadURL": "https://github.com/omarhuertasllc-ops/LeafLore-Updates/releases"
 }
